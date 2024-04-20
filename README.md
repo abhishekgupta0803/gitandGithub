@@ -1,2 +1,2 @@
 # gitandGithub
-# i will learn git and git hub commands.
+# i was learn git and git hub commands.
